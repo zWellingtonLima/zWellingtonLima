@@ -9,6 +9,8 @@
 
 ![Wellington's GitHub stats](https://github-readme-stats.vercel.app/api?username=zWellingtonLima&show_icons=true&theme=highcontrast)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/zWellingtonLima/github-readme-stats)
+
 ## Tecnologias
 
 <div style="display: inline_block;">
