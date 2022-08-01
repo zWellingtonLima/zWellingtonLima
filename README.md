@@ -23,4 +23,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zWellingtonLima&layout=compact)](https://github.com/zWellingtonLima/github-readme-stats)
 
 </br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zWellingtonLima)](https://github.com/anuraghazra/github-readme-stats)
