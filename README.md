@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! Meu nome é Wellington Lima, tenho 25 anos e atualmente estudo JavaScript Puro brincando com a elaboração de Aplicações Web :D <br>
+Hey! Meu nome é Wellington Lima, tenho 25 anos e atualmente estudo JavaScript Puro através da elaboração de Aplicações Web e manipulações do DOM em páginas. :D <br>
 Tenho como objetivo entrar na área dev como programador Front-End e batalho a cada dia buscando alcançá-lo. o/
 
 ## 🌐 Socials:
