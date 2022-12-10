@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey! Meu nome é Wellington Lima, tenho 25 anos e atualmente estudo JavaScript Puro através da elaboração de Aplicações Web e manipulações do DOM em páginas. :D <br>
-Tenho como objetivo entrar na área dev como programador Front-End e batalho a cada dia buscando alcançá-lo. o/
+Tenho como objetivo me tornar desenvolvedor Front-End e batalho a cada dia por isso. o/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__wellingtonlima__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wellington-lima-710b37233/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20635584/wellington-lima) 
