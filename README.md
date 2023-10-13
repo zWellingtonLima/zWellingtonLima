@@ -15,10 +15,10 @@ Juntamente às tecnologias mencionadas estudo e desenvolvo-as também usando Typ
 </p>
 
 # 📊 GitHub Stats:
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=zWellingtonLima&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" />
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zWellingtonLima&theme=highcontrast&hide_border=false" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zWellingtonLima&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=zWellingtonLima&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zWellingtonLima&theme=highcontrast&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zWellingtonLima&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
----
+------
 [![](https://visitcount.itsvg.in/api?id=zWellingtonLima&label=%3AD&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
