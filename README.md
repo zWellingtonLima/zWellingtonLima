@@ -1,8 +1,8 @@
 # 💫 Sobre mim:
 Hey! Meu nome é Wellington Lima e sou desenvolvedor Frontend. <br><br>
 
-🔭 Atualmente trabalho com ReactJs usando o framework NextJS desenvolvendo aplicações e páginas Web.
-Juntamente às tecnologias mencionadas estudo e desenvolvo-as também usando Typescript. <br><br>
+🔭 Atualmente desenvolvo com ReactJs aplicações e páginas Web usando NextJs. 
+ <br>
 
 ## 🌐 Meus contatos:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__wellingtonlima__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-lima-710b37233/) 
