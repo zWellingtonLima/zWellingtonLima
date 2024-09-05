@@ -18,10 +18,13 @@ Gosto de desenvolver minhas aplicações e páginas com grande atenção aos det
 
 
 ## 👨‍💻Últimos projetos:
-* Ultimamente venho trabalhando no [ExploraTur](https://github.com/ExploraTur/exploratur-page/blob/main/README.md) que, resumidamente, é gerenciador de viajens que aproxima viajantes e condutores de veículos particulares. 
+* Ultimamente venho trabalhando no [ExploraTur](https://github.com/ExploraTur/exploratur-page/blob/main/README.md) que, resumidamente, é um gerenciador de viagens que aproxima viajantes e condutores de veículos particulares. 
+
+### Mais recentes
+* Página de Delivery de café: https://coffee-delivery-shop.vercel.app/
+* Simples ToDo: https://zwellingtonlima.github.io/Todo-List/
 
 ### Mais antigos
-* Simples ToDo: https://zwellingtonlima.github.io/Todo-List/
 * Bykcraft:  https://zwellingtonlima.github.io/Bykcraft-portfolio/
 * Natours: https://zwellingtonlima.github.io/Natours-LandingPage/
 
