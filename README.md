@@ -2,6 +2,7 @@
 Sou o <b>Wellington Lima</b> e sou desenvolvedor Frontend principalmente.<br><br>
 
 Atualmente venho passando um tempo desenvolvendo uma aplicação web chamada [Explorer|ExploraTour](https://github.com/zWellingtonLima/explora-tour) indo de ponta a ponta do projeto buscando resolver todos os problemas que envolvem a criação e uso de uma aplicação com o escopo que esta abrange.<br>
+<a href="https://explorertour.vercel.app/" target="_blank" rel="noopener noreferrer">Link do Projeto</a>
 
 ## 🌐 Meus contatos:
 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-lima-710b37233/) 
