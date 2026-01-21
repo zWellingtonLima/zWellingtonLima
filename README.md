@@ -21,6 +21,7 @@ E outras diversas tecnologias.
 Fora o Explorer mencionado anteriormente, possuo uma gama de pequenas aplicações bem menos complexas mas proveitosas em relação às metodologias e tecnologias usadas. 
 
 ### Projetos mais recentes
+* Pizzaria Shop: https://pizza-dev-restaurant.vercel.app/
 * Página de Delivery de café: https://coffee-delivery-shop.vercel.app/
 * Típico ToDo: https://zwellingtonlima.github.io/Todo-List/
 
