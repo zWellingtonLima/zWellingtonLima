@@ -1,5 +1,5 @@
 # 💫 Hey:
-Sou o <b>Wellington Lima</b> e sou desenvolvedor Frontend principalmente.<br><br>
+Sou o <b>Wellington Lima</b> e sou desenvolvedor Frontend.<br><br>
 
 Atualmente venho passando um tempo desenvolvendo uma aplicação web chamada [Explorer|ExploraTour](https://github.com/zWellingtonLima/explora-tour) indo de ponta a ponta do projeto buscando resolver todos os problemas que envolvem a criação e uso de uma aplicação com o escopo que esta abrange.<br>
 <a href="https://explorertour.vercel.app/" target="_blank" rel="noopener noreferrer">Link do Projeto</a>
